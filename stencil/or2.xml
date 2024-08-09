@@ -1,8 +1,8 @@
 <shape h="50" w="60" strokewidth="inherit">
   <connections>
-    <constraint x="0" y="10" perimeter="1" />
-    <constraint x="0" y="40" perimeter="1" />
-    <constraint x="60" y="25" perimeter="1" />
+    <constraint x="0" y="0.2" />
+    <constraint x="0" y="0.8" />
+    <constraint x="1" y="0.5" />
   </connections>
   <background>
     <path>
