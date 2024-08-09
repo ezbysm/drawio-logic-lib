@@ -4,7 +4,7 @@
     <constraint x="0" y="0.8" />
     <constraint x="1" y="0.5" />
   </connections>
-  <background>
+  <foreground>
     <path>
       <move x="0" y="0" />
       <arc rx="60" ry="45" x="0" y="50" x-axis-rotation="0" large-arc-flag="0" sweep-flag="1" />
@@ -14,8 +14,6 @@
       <line x="0" y="0" />
       <close />
     </path>
-  </background>
-  <foreground>
     <fillstroke />
     <path>
       <move x="0" y="10" />
