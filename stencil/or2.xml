@@ -1,0 +1,28 @@
+<shape h="50" w="60" strokewidth="inherit">
+  <connections>
+    <constraint x="0" y="10" perimeter="1" />
+    <constraint x="0" y="40" perimeter="1" />
+    <constraint x="60" y="25" perimeter="1" />
+  </connections>
+  <background>
+    <path>
+      <move x="0" y="0" />
+      <arc rx="60" ry="45" x="0" y="50" x-axis-rotation="0" large-arc-flag="0" sweep-flag="1" />
+      <line x="20" y="50" />
+      <arc rx="45" ry="45" x="60" y="25" x-axis-rotation="0" large-arc-flag="0" sweep-flag="0" />
+      <arc rx="45" ry="45" x="20" y="0" x-axis-rotation="0" large-arc-flag="0" sweep-flag="0" />
+      <line x="0" y="0" />
+      <close />
+    </path>
+  </background>
+  <foreground>
+    <fillstroke />
+    <path>
+      <move x="0" y="10" />
+      <line x="6.625" y="10" />
+      <move x="0" y="40" />
+      <line x="6.625" y="40" />
+    </path>
+    <stroke />
+  </foreground>
+</shape>
