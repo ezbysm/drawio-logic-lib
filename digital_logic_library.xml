@@ -40,5 +40,12 @@
     "h": 60,
     "aspect": "fixed",
     "title": "DFF"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(vZVtD4IgEMc/DW+dgk7fNqvv4YySReDEHvz24WOCYaStzbndHfz4H3cAQLHIkhwD6GYAbQGEvit/0ryrpigLfsZ3cii7cYRluCBlHUU74G7kmPpDccoZw2lJOBNKZBSXsIQwOdd9tLBukaqznKC1AdxbI7z1iGFSpajSESiWHlOWKD7yAp8KfmWHtwvnSb2Dk0AfvvAbNu7LXEo9gBJmBPgLCP7PEavTsAKklAs80wDSbyiFLCGhtG34GcBXhVxfSY3gBfMdbtNPS2R4UDskdhBVhr9eB4x+oGNhMpoSFfFiLum8j12HKSW5GOfgObqCyAkD5RIfJGWabVrF6gBMpMDw31KazZxcuI23fdYaxxM=);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"1.1368683772161603e-13\" width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "GATE"
   }
 ]</mxlibrary>
