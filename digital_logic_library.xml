@@ -1,1 +1,30 @@
-<mxlibrary>[]</mxlibrary>
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(vVXbboQgEP0aHt0orGZfG9v9D+KySkrBAK3274sCiewKqdY0Mca5cGbOXBCgWnW4JwDmHUCvAMIyNy8jDlasnKi0FO9koDft/CjviKR6sqI3kL8Yn+lBdSM4J42mgqvAsrAbMEy5OZuPFswF+XbSCVoZwOtuiMt2iOIBolyHQLXRxFii+i4kaaX45LfVwD2eKvhk8OYP8UWipFKUPACWjfmQY9g+6SDOjtMqvm/9mOGRqkwKjSeCgSvDsiWZCZLdGW4DkxoI6Rfq4jfpMsoXfCMJbWHsGUYYV2EEWB5K+fh810fgP9MNO7RjIhsmFEmsotFHlsIsE2XMXj0JgD+sVLGjBNWp8mOzCSWVx/mQPNIo6UpHqzwfe7rUZq39dcyKHw==);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"60\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 60,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "OR2"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(tVVRboQgED0Nn24UVtvfxm7vQdxZJaVgwFZ7+6JiIyrEtdvEGGcG3rw34wAiua5oDQjHFSKvCOM0Ni9jtqOZWVM3Sr5Dy66NXcdEBYo1fZRcUPxi1vQPyQspBBQNk0I7kVncgFEmzN64G8Fskm9rnfBoI/x2GOL5fohkAZFuQ5DceHwqSX6TCkolP8V1M3FN+wquAlP4Q36BV1RI0gRAVWE+VOe2T1mIs9W0iT+1votox3SkZEN7gc5STlUJkUkS3TgtnZBuAeqZO9lDlzMx05s8TUVfULpHM/kF8ahOXdk4fajs/2C8qstjO7WLstupA39mwaWGwEgav2c4zFAxzscjKAAAnLNaz0guG+0ebYk1K9f0oe+i8IfpDuff7kJ2ynB6ACXE4/wQHmGUcLO9VR62rc7XwTveYoPjBw==);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"60\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 60,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "NOR2"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(nZPRboMwDEW/Jo9ULBFVXyfa/kdEXYiWJshJB/z9DEmlMQhakRDi+jrHsnGYKF0jW2A8b5g4M86LnF4kuyCPUTqP9gs6dfMxT5kGUPnRFReWf1LO+IiyssZA5ZU1bub88gkmlaGzeR9gscgQ1YEHzfh1N+L0PuLjD6JYR4iSIqkuRXm3CDXap7mtFm7lOMGF8bIf9huSTW219AJoZZKAYgdBFDsQEiv6wIjgEYHDXK9XiAX6TPbKZWi9HKc887TEGjIqkt21rGeW6wDaZXj/zP4FqLR1sLFtFE/8d9oXpXW4XRuAZMLEXqzcFA0Xewr8AA==);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"60\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 60,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "AND2"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(nZTdjoMgEIWfhks3FsJmbze2+x7ETpUsCwZotW/fUTApVUzXxBjPHPzmR5CwyrWiA0LLlrAjoZSXeEPZB/kZpfPW/EIvzz6uk7oFK/3oshMpv3HNeLGqNlpD7aXRLnGefIQJqfHdcgiwmOQe1QcNmtCf3Yiv/yMOLwi+jmAVRnJdsupiLDTWXPV5NXEnxgkujNn+MzfINrXV0gxQUmcBfAeB8h0IYWt8sC8Ie0/1eoaYYCjEIF1hjRfjlBNPCdtAgUmKixJNYrkeoFuG98/sLUCtjION3YbxzHfH/SKVCqdrAwBKyc49FcnTKucy46k9RNmmMkd/q4Tsgqm9xa6fouHfMgUe);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"60\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 60,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "NAND2"
+  }
+]</mxlibrary>
