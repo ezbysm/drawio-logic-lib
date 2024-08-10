@@ -1,0 +1,27 @@
+<shape h="60" w="40" strokewidth="inherit">
+  <connections>
+    <constraint x="0" y="0.25" />
+    <constraint x="0" y="0.75" />
+    <constraint x="0.5" y="1" />
+    <constraint x="1" y="0.25" />
+  </connections>
+  <foreground>
+    <path>
+      <move x="0" y="0" />
+      <line x="0" y="55" />
+      <line x="40" y="55" />
+      <line x="40" y="0" />
+      <line x="0" y="0" />
+      <close />
+    </path>
+    <fillstroke />
+    <ellipse x="17.5" y="55" w="5" h="5" />
+    <fillstroke />
+    <path>
+      <move x="0" y="40" />
+      <line x="10" y="45" />
+      <line x="0" y="50" />
+    </path>
+    <stroke />
+  </foreground>
+</shape>
