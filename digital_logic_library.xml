@@ -33,5 +33,12 @@
     "h": 60,
     "aspect": "fixed",
     "title": "MUX2"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"shape=stencil(rZThDoIgEMefhq9OQfNzs3oPpxQsAieW9fah4CYqzLTNud0d/Lj73wFAmSR5hQEMCUAnAOEhVD9lttqMjSmbWtxxS8vGrKOc4Jo2XRSdQXhUa7oPZYXgHBcNFVxakVFcwXLK1d7wrWHmkI+xAphoB4CXzYx0CyNILEr0OyJaWQrKlMelFcquosa3Wjx5uXhylXd9mAWG8EO8sFMZX00DgFHuBCReYZcJ8d8Ru8tYBSiYkNgzAcrvaIVqIWVMXxsPADNGKzlKMkonMzhoZS6ksYhlueirUtgxS/EqEe0uRBPEhlGYDJM3CX+PnOL022aXsPfqB7N3fAE=);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"40\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"D\" style=\"text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=4;points=[];\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"5\" width=\"20\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"Q\" style=\"text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=4;points=[];\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"20\" y=\"5\" width=\"20\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "DFF"
   }
 ]</mxlibrary>
