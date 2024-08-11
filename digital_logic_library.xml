@@ -1,5 +1,19 @@
 <mxlibrary>[
   {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(pZJRDsIgDIZPw6tBmAcwqPdYtuqISBdAp7e3G1simSyLJoSk/cvXlpZJ5ZuyBSZ4w+SBCVFwusjsUtMHh1fodB3GOG0bcDr0qjwyvqeY/khVobVQBY3WJ8qHTrBSW3rLnxE2JnmN1mYXbSZOqxHbdQipyJMrUaozOrg4vNv6a+K27NufCZN8wwdkm1pqaQIYbbOA4gdCkSL+L2IVoDLoYWF85M98JA1AGxN3bQGQDRjYsxkO3rjmg+MN);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "BUF"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(pZPxDoIgEMafhn8bgj5Ao3oPp1ewCBxQ1tuHglvMcKw2x3b3nT/ugwNRZnk7ACKYI3pAhNTYLz4c09A6o68wit7FOqE4GOEmlR4R3vua6aOs00pB54RWNlE+dA9rhfL/4meAxU1eMdo1IUbkVIyoyhCU+UyuRcrO2sDF6Lvqv248tJP9lbDIN/2ArKktSwtACpUF1D8QaIr4v4kiQCe1hY3r8/nMQfoLEFKGWdsAgJRisHmfVZPMcBVVnoY5elEL2YLZ3mqM5mx4aXPiDQ==);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "INV"
+  },
+  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(vVXbboQgEP0aHt0orGZfG9v9D+KySkrBAK3274sCiewKqdY0Mca5cGbOXBCgWnW4JwDmHUCvAMIyNy8jDlasnKi0FO9koDft/CjviKR6sqI3kL8Yn+lBdSM4J42mgqvAsrAbMEy5OZuPFswF+XbSCVoZwOtuiMt2iOIBolyHQLXRxFii+i4kaaX45LfVwD2eKvhk8OYP8UWipFKUPACWjfmQY9g+6SDOjtMqvm/9mOGRqkwKjSeCgSvDsiWZCZLdGW4DkxoI6Rfq4jfpMsoXfCMJbWHsGUYYV2EEWB5K+fh810fgP9MNO7RjIhsmFEmsotFHlsIsE2XMXj0JgD+sVLGjBNWp8mOzCSWVx/mQPNIo6UpHqzwfe7rUZq39dcyKHw==);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"60\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 60,
     "h": 50,
