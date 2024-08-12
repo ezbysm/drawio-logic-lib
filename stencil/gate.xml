@@ -16,18 +16,18 @@
     <fillstroke />
     <path>
       <move x="20" y="0" />
-      <line x="20" y="15.5" />
+      <line x="20" y="16" />
       <move x="0" y="20" />
-      <line x="12.5" y="20" />
+      <line x="10" y="20" />
       <move x="40" y="20" />
-      <line x="28.5" y="20" />
-      <move x="12.5" y="20" />
-      <line x="25" y="12.5" />
+      <line x="30" y="20" />
+      <move x="10" y="20" />
+      <line x="28.75" y="12.75" />
     </path>
     <stroke />
-    <ellipse x="11.25" y="18.75" w="2.5" h="2.5" />
+    <ellipse x="7.5" y="17.5" w="5" h="5" />
     <fillstroke />
-    <ellipse x="27.25" y="18.75" w="2.5" h="2.5" />
+    <ellipse x="27.5" y="17.5" w="5" h="5" />
     <fillstroke />
   </foreground>
 </shape>
